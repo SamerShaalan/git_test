@@ -7,4 +7,5 @@ Hello Odin!
 
 1. Open index.html in your browser.
 2. Merging successful.
-3. conflict.
+3. Conflict resolved.
+4. conflict.
